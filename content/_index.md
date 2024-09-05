@@ -6,7 +6,7 @@ title = "Home"
 katex = false
 +++
 
-I am a project student working on quantum machine learning and quantum algorithms under [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta). I am interested in quantum computing, information and computational complexity.
+I am a Junior Research Fellow working on stability of complex systems under Dr. Chandrakala Meena at IISER Thiruvananthapuram. I am interested in quantum computing, information and computational complexity.
 
 I was at IIT Gandhinagar for MSc Physics. Before that, I was at Jamia Millia Islamia for BSc (Hons.) Physics.
 
