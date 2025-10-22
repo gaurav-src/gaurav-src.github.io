@@ -6,12 +6,12 @@ title = "Home"
 katex = false
 +++
 
-I am a Junior Research Fellow working on stability of complex systems under Dr. Chandrakala Meena at IISER Thiruvananthapuram. I am interested in quantum computing, information and computational complexity.
+I am a Junior Research Fellow at IISER Pune, working on homophily in higher-order networks with [Dr. Chandrakala Meena](https://www.iiserpune.ac.in/research/department/physics/people/faculty/regular-faculty/chandrakala-meena/569) and [Dr. Akrati Saxena](https://www.akratisaxena.com).
 
-I was at IIT Gandhinagar for MSc Physics. Before that, I was at Jamia Millia Islamia for BSc (Hons.) Physics.
+I was previously at IIT Gandhinagar for MSc in Physics, where I studied quantum complexity geometry of the Heisenberg group for my Master's thesis under [Prof. Urjit Yajnik](https://homepages.iitb.ac.in/~yajnik/).
 
 ## contact
 
 email: gaurav2k29 [at] gmail.com\
 X: [@gauravkmr__](https://x.com/gauravkmr__)\
-[GitHub](https://github.com/gaurav-src), [LinkedIn](https://www.linkedin.com/in/gaurav-kumar-83437957)
+[GitHub](https://github.com/gaurav-src), [LinkedIn](https://www.linkedin.com/in/gaurav-kmr/)
